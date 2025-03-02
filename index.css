@@ -1,0 +1,32 @@
+ /* Basic styles for the body */
+ /* Change anything you want */
+ body {
+    font-family: "Arvo", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #718355, #87986A, #97A97C, #B5C99A);
+    color: #582f0e;
+  }
+
+  h1 {
+      text-align: center;
+  }
+  a {
+    color: #582f0e;
+  }
+  p{
+      font-size: 20px;
+      font-family: Raleway;
+      text-align: center;
+  }
+
+  .box {
+      box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+      border: 5px solid rgb(71, 108, 71)
+   }
+   .col-md-6 {
+    border: black 5px solid;
+   }
